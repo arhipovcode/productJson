@@ -1,0 +1,18 @@
+[
+  {"id":1,"title":"Телевизор","price":21500,"currency":"₽"},
+  {"id":2,"title":"Пылесос","price":11300,"currency":"₽"},
+  {"id":3,"title":"Телефон","price":15800,"currency":"₽"},
+  {"id":4,"title":"Ноутбук","price":34700,"currency":"₽"},
+  {"id":5,"title":"Чайник","price":1500,"currency":"₽"},
+  {"id":6,"title":"Клавиатура","price":1300,"currency":"₽"},
+  {"id":7,"title":"Apple Watch","price":25800,"currency":"₽"},
+  {"id":8,"title":"Смартфон","price":64700,"currency":"₽"},
+  {"id":9,"title":"Iphone 12 PRO","price":99500,"currency":"₽"},
+  {"id":10,"title":"Робот—пылесос","price":30300,"currency":"₽"},
+  {"id":11,"title":"Nokia 3310","price":1800,"currency":"₽"},
+  {"id":12,"title":"Монитор Samsung","price":6700,"currency":"₽"},
+  {"id":13,"title":"Электрогриль","price":4500,"currency":"₽"},
+  {"id":14,"title":"Холодильник","price":41300,"currency":"₽"},
+  {"id":15,"title":"Стиральная машина","price":35100,"currency":"₽"},
+  {"id":16,"title":"Микроволновая печь","price":4700,"currency":"₽"}
+]
